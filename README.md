@@ -1,5 +1,5 @@
 # Rotate your Networks: Better Weight Consolidation and Less Catastrophic Forgetting
-The paper has been accepted as oral presentation in ICPR 2018. An [arXiv pre-print](https://arxiv.org/pdf/1802.02950v3.pdf) version is available.
+The paper has been accepted as oral presentation in ICPR 2018. An [arXiv pre-print](https://arxiv.org/pdf/1802.02950v3.pdf) version is available. [Project page](http://www.lherranz.org/2018/08/21/rotating-networks-to-prevent-catastrophic-forgetting/) is available.
 
 ## Abstract
  In this paper we propose an approach to avoiding catastrophic
